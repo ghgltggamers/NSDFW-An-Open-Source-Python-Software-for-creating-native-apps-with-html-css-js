@@ -1,0 +1,24 @@
+NSDFW/
+│
+├── project_manager/
+│   ├── __init__.py
+│   ├── project_manager.py
+│   ├── project.json
+│
+├── editor/
+│   ├── __init__.py
+│   ├── editor.py
+│
+├── assets/
+│   ├── icons/
+│   └── styles/
+│
+├── examples/
+│   └── sample_project/
+│       ├── project.meta.json
+│       ├── index.html
+│       ├── style.css
+│       └── script.js
+│
+├── main.py
+└── README.md

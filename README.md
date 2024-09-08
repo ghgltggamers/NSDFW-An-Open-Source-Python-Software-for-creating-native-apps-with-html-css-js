@@ -1,2 +1,10 @@
-# NSDFW-An-Open-Source-Python-Software-for-creating-native-apps-with-html-css-js
-An OpenSource Software developed for developing the native softwares from web
+# NSDFW - Native Software Deployer From Web
+
+## Installation
+
+To get started with NSDFW, clone the repository and run `main.py`:
+
+```bash
+git clone https://github.com/yourusername/nsdfw.git
+cd nsdfw
+python main.py
